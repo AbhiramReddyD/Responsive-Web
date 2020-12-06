@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
 	⚡Projects in the Web🕸
-</h2>
+</h1>
 
 ## [Random Quote Generator](https://codepen.io/abhiram_reddy/full/MWwbQMV)
 <a href="https://codepen.io/abhiram_reddy/full/MWwbQMV" target="_blank"><img src="https://github.com/abhiramready/Responsive-Web/blob/master/images/quote.PNG" height="200" width="500"></a>
