@@ -1,5 +1,5 @@
 <h2 align="center">
-	Responsive💻📱 Web🕸 Designing Projects⚡
+	Responsive💻📱 Web🕸 Projects⚡
 </h2>
 
 ## [Random Quote Generator](https://codepen.io/abhiram_reddy/full/MWwbQMV)
