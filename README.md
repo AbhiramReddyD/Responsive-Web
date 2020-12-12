@@ -10,7 +10,7 @@
  
  ![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/ResponsiveWebDesigning.png)
 
-##🌐 Projects
+## 🌐 Projects
 * Click on projects to see live demo/code
 ### 1.1 Build a Tribute Page
 [![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/TributePage.png)](https://codepen.io/abhiramready/pen/WNrMaXV)
