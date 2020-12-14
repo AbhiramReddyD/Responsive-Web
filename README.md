@@ -3,6 +3,7 @@
 </h1>
 
  ## 1. Responsive Web Designing Certification
+ 🎯 Topics covered
  
  * HTML, CSS basics
  * CSS Grid and Flexbox
@@ -10,7 +11,7 @@
  
  ![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/ResponsiveWebDesigning.png)
 
-## 🌐 Projects
+## ✨ Projects 
 * Click on projects to see live demo/code
 ### 1.1. Build a Tribute Page
 [![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/TributePage.png)](https://codepen.io/abhiramready/pen/WNrMaXV)
@@ -30,6 +31,7 @@
 ****
 
  ## 2. JavaScript Algorithms and Data Structures Certification
+ 🎯 Topics covered
  
  * Basic JavaScript, ES6
  * Object-oriented programming 
@@ -38,7 +40,7 @@
  
  ![](https://github.com/abhiramready/Full-Stack-Journey/blob/master/images/JavaScript.png)
 
-## 🌐 Projects
+## ✨ Projects
 * 2.1  Palindrome Checker
 * 2.2  Roman Numeral Converter
 * 2.3  Caesars Cipher
