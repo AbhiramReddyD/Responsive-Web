@@ -48,3 +48,12 @@
 * 2.5  Cash Register
 
 ****
+ ## 3. Front End Libraries Certification
+ 🎯 Topics covered
+ 
+ * Sass
+ * jQuery
+ * Bootstrap
+ * React and Redux
+ 
+****
