@@ -2,6 +2,12 @@
 	📚Full Stack Journey🚀
 </h1>
 
+## Certifications & Projects
+1. [Responsive Web Designing Certification](https://github.com/abhiramready/Full-Stack-Journey#1-responsive-web-designing-certification)
+2. [JavaScript Algorithms and Data Structures Certification](https://github.com/abhiramready/Full-Stack-Journey#2-javascript-algorithms-and-data-structures-certification)
+3. [Front End Libraries Certification](https://github.com/abhiramready/Full-Stack-Journey#3-front-end-libraries-certification)
+
+
  ## 1. Responsive Web Designing Certification
  🎯 Topics covered
  
