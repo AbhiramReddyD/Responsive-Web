@@ -51,13 +51,11 @@
 
 ```javascript
 function palindrome(str) {
-  const processedString=
-  str
+  const processedString=str
     .replace(/[\W_]/g,"")
     .toLowerCase();
 
-  return (processedString===
-  processedString
+  return (processedString===processedString
     .split("")
     .reverse()
     .join("")
